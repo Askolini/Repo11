@@ -5,6 +5,9 @@ function mySplice(arr1, arr2, n) {
     return arr2;
 }
 
+console.log(mySplice());
+module.exports = mySplice;
+
 [1, 2, 3],
 [4, 5],
 1
