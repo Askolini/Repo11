@@ -1,7 +1,7 @@
 function mySplice(arr1, arr2, n) {
-    var arr1 =
-    var arr2 = 
-    var n =
+    var arr1 = 1
+    var arr2 = 2
+    var n = 3
     return arr2;
 }
 
