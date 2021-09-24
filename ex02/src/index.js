@@ -17,5 +17,5 @@ function myArrayFunction(arr) {
     return averageDayTemp;
 }
 
-console.log(myArrayFunction(temps));
+console.log(myArrayFunction(monday, tuesday, wednesday, thursday, friday));
 module.exports = myArrayFunction;
