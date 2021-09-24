@@ -14,7 +14,7 @@ function myArrayFunction(arr) {
     for ( wednesday = 0; wednesday = [1] + [2] + [3] + [4]; wednesday = wednesday / 4)
     for ( thursday = 0; thursday = [1] + [2] + [3] + [4]; thursday = thursday / 4)
     for ( friday = 0; friday = [1] + [2] + [3] + [4]; friday = friday / 4)
-    return newTemps;
+    return averageDayTemp;
 }
 
 console.log(myArrayFunction(temps));
